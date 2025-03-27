@@ -1,0 +1,115 @@
+(footprint "basicJackHole"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 5.715 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "22648690-43fb-4820-96b4-89324bc381ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "basicJackHole"
+		(at 0 6.985 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ef7a7b80-e7b1-4b54-af17-d8658d2e338d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e198f5c5-d1da-4c0d-8d4c-3651f6f6b647")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5db8aead-c00f-4b76-8e78-a4238ac4666d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d4291b0-f50b-4be8-a568-9440d6bea3c8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 3.8 3.2)
+		(end -3.7 3.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Mask")
+		(uuid "ef88ef44-126f-400f-85d0-da7a715153a7")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 6.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ae6cc8e0-66f8-415d-97d8-21da0df99aeb")
+	)
+	(fp_line
+		(start 0 -0.635)
+		(end 0 0.635)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c7727be2-6229-4339-ae8c-6a1606bca704")
+	)
+	(fp_line
+		(start 0.635 0)
+		(end -0.635 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a6ec634a-973e-4c22-9baf-d385c4e57897")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 10 10)
+		(drill 8.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "74579be4-71e8-42f4-9187-37906526bdf3")
+	)
+)
