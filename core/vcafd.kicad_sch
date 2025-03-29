@@ -5348,7 +5348,7 @@
 				)
 			)
 		)
-		(property "Value" "PMV88ENER"
+		(property "Value" "DMN6075"
 			(at 63.5 194.31 90)
 			(effects
 				(font
@@ -7340,7 +7340,7 @@
 				)
 			)
 		)
-		(property "Value" "ZXMP3A13FTA"
+		(property "Value" "DMP3099"
 			(at 63.5 151.13 90)
 			(effects
 				(font

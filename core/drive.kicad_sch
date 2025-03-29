@@ -3560,7 +3560,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -4574,7 +4574,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 167.64 80.0099 90)
 			(effects
 				(font
@@ -5196,7 +5196,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 167.64 92.7099 90)
 			(effects
 				(font
@@ -5441,7 +5441,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 110.49 62.23 0)
 			(effects
 				(font
@@ -5851,7 +5851,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 109.22 95.25 0)
 			(effects
 				(font
@@ -6161,7 +6161,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 120.65 62.23 0)
 			(effects
 				(font

@@ -3378,7 +3378,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "20538802-e1ea-4b7f-b27d-5b1ba2be50a9")
 		(property "Reference" "R29"
@@ -4122,7 +4122,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4bd949a6-cf0a-4f79-8f1f-df5358c17a6b")
 		(property "Reference" "R31"
@@ -4463,7 +4463,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5c7e5031-db3b-4157-a46c-d225f72ca5fc")
 		(property "Reference" "R38"
@@ -4926,7 +4926,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 93.98 41.9099 90)
 			(effects
 				(font
@@ -5725,7 +5725,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "af68906f-44a0-4042-aae5-f11e69a7f4ee")
 		(property "Reference" "R37"
@@ -6229,7 +6229,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 93.98 113.0299 90)
 			(effects
 				(font
