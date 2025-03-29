@@ -3869,7 +3869,7 @@
 				)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "1M5"
 			(at 177.8 54.61 90)
 			(effects
 				(font
