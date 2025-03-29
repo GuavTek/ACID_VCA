@@ -1,3 +1,6 @@
 core/vcafd-backups/
+core/out/
 io/vcafd_io-backups/
+io/out/
 front/vcafd_front-backups/
+front/out/

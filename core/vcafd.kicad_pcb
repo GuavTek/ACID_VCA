@@ -113,10 +113,10 @@
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
-			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(usegerberextensions yes)
+			(usegerberattributes no)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -135,16 +135,16 @@
 			(psnegative no)
 			(psa4output no)
 			(plotreference yes)
-			(plotvalue yes)
+			(plotvalue no)
 			(plotfptext yes)
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "out/")
 		)
 	)
 	(net 0 "")
@@ -1241,7 +1241,7 @@
 				)
 			)
 		)
-		(property "Value" "5k1"
+		(property "Value" "15k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "cdd278df-409b-48b8-bf29-929d3cb300c2")
@@ -6889,7 +6889,7 @@
 				)
 			)
 		)
-		(property "Value" "???"
+		(property "Value" "8k2"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "f649d74e-efbb-4643-b112-69a68ae1f4c2")
@@ -12861,7 +12861,7 @@
 				)
 			)
 		)
-		(property "Value" "5k1"
+		(property "Value" "15k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "65af08f6-53fb-47d0-b888-08e17f061746")
@@ -19831,7 +19831,7 @@
 				)
 			)
 		)
-		(property "Value" "???"
+		(property "Value" "8k2"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "415c77cd-e073-4c2c-a467-b96d2e21947f")
@@ -25360,7 +25360,7 @@
 				)
 			)
 		)
-		(property "Value" "13k"
+		(property "Value" "12k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "68ba69b2-b9d0-4216-8067-b364cc3ed09e")
@@ -31041,7 +31041,7 @@
 				)
 			)
 		)
-		(property "Value" "13k"
+		(property "Value" "12k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "7de8e735-5d79-4649-a87e-5245d5907154")
@@ -32405,7 +32405,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/14b64d38-077b-4616-8e7d-64ce4f37ce72/b22aa56e-1c00-4b47-8ef6-79d2b0eb5ace")
+		(path "/14b64d38-077b-4616-8e7d-64ce4f37ce72/51f6f62e-ac14-4c04-820d-ae9b9386247b")
 		(sheetname "Drive1")
 		(sheetfile "drive.kicad_sch")
 		(attr smd)
@@ -33766,7 +33766,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/221a1cb5-e2fd-46cd-a299-55e6c7e2678c/b22aa56e-1c00-4b47-8ef6-79d2b0eb5ace")
+		(path "/221a1cb5-e2fd-46cd-a299-55e6c7e2678c/51f6f62e-ac14-4c04-820d-ae9b9386247b")
 		(sheetname "Drive")
 		(sheetfile "drive.kicad_sch")
 		(attr smd)
@@ -48289,7 +48289,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "30k"
+		(property "Value" "39k"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "85f36dfb-52fc-4187-8fb7-65d2870cc4ae")
@@ -50568,7 +50568,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "30k"
+		(property "Value" "39k"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "885b5ac2-7de1-4ef6-aa21-ae9a9fa83d64")
@@ -55174,7 +55174,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "1M5"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "9c8ab753-5d7e-48cc-88a4-8fbaa911c37a")
@@ -58337,7 +58337,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "1M5"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "20bffac3-bb6a-49c8-99da-3a3ac2a4b814")
