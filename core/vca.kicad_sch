@@ -3920,7 +3920,7 @@
 				)
 			)
 		)
-		(property "Value" "12k"
+		(property "Value" "36k"
 			(at 77.47 116.84 90)
 			(effects
 				(font
@@ -4575,7 +4575,7 @@
 				)
 			)
 		)
-		(property "Value" "12k"
+		(property "Value" "36k"
 			(at 77.47 45.72 90)
 			(effects
 				(font
@@ -6191,7 +6191,7 @@
 				)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "15k"
 			(at 77.47 102.87 90)
 			(effects
 				(font
@@ -6490,7 +6490,7 @@
 				)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "15k"
 			(at 77.47 31.75 90)
 			(effects
 				(font
